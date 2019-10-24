@@ -1,0 +1,7 @@
+C:\Users\Marin\source\repos\budicMarinPetlje\budicMarinPetlje\bin\Debug\budicMarinPetlje.exe.config
+C:\Users\Marin\source\repos\budicMarinPetlje\budicMarinPetlje\bin\Debug\budicMarinPetlje.exe
+C:\Users\Marin\source\repos\budicMarinPetlje\budicMarinPetlje\bin\Debug\budicMarinPetlje.pdb
+C:\Users\Marin\source\repos\budicMarinPetlje\budicMarinPetlje\obj\Debug\budicMarinPetlje.csprojAssemblyReference.cache
+C:\Users\Marin\source\repos\budicMarinPetlje\budicMarinPetlje\obj\Debug\budicMarinPetlje.csproj.CoreCompileInputs.cache
+C:\Users\Marin\source\repos\budicMarinPetlje\budicMarinPetlje\obj\Debug\budicMarinPetlje.exe
+C:\Users\Marin\source\repos\budicMarinPetlje\budicMarinPetlje\obj\Debug\budicMarinPetlje.pdb
