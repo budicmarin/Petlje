@@ -1,0 +1,7 @@
+C:\Users\Marin\source\repos\budicMarinVježbaPetlje\budicMarinVježbaPetlje\obj\Debug\budicMarinVježbaPetlje.csprojAssemblyReference.cache
+C:\Users\Marin\source\repos\budicMarinVježbaPetlje\budicMarinVježbaPetlje\obj\Debug\budicMarinVježbaPetlje.csproj.CoreCompileInputs.cache
+C:\Users\Marin\source\repos\budicMarinVježbaPetlje\budicMarinVježbaPetlje\bin\Debug\budicMarinVježbaPetlje.exe.config
+C:\Users\Marin\source\repos\budicMarinVježbaPetlje\budicMarinVježbaPetlje\bin\Debug\budicMarinVježbaPetlje.exe
+C:\Users\Marin\source\repos\budicMarinVježbaPetlje\budicMarinVježbaPetlje\bin\Debug\budicMarinVježbaPetlje.pdb
+C:\Users\Marin\source\repos\budicMarinVježbaPetlje\budicMarinVježbaPetlje\obj\Debug\budicMarinVježbaPetlje.exe
+C:\Users\Marin\source\repos\budicMarinVježbaPetlje\budicMarinVježbaPetlje\obj\Debug\budicMarinVježbaPetlje.pdb
